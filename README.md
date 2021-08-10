@@ -11,7 +11,7 @@
   <img align="center" alt="Lga-VBA" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png">
   <img align="center" alt="Lga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lga-Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
-  <img align="center" alt="Lga-PBI" height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png">
+
 </div>
   
   ##
