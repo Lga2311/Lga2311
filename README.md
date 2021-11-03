@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Lucas
  <div>
   <a href="https://github.com/Lga2311">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lga2311&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lga2311&layout=compact&langs_count=9&theme=gotham&hide=CMake,C,C++,Kotlin,Objective-C,%20Swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lga2311&show_icons=true&theme=github_dark&border_color=4c8eda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lga2311&theme=github_dark&border_color=4c8eda&layout=compact&langs_count=9&hide=Jupyter Notebook,CMake,C,c%2B%2B,Kotlin,Objective-C,%20Swift"/>
 </div>
  
 <div style="display: inline_block"><br>
